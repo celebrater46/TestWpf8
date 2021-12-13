@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Enin\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Enin\\.nuget\\packages"
+    ]
+  }
+}

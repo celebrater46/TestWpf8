@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-
+        <Image Source="./img/star.png"/>
+        <!-- <Image Source="" Stretch="Uniform"/> -->
+        <!-- <Image Source="./img/g09016.jpg" Stretch="Uniform"/> -->
     </Grid>
 </Window>
