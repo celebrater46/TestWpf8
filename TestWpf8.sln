@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWpf8", "TestWpf8\TestWpf8.csproj", "{346E1C0B-F5B5-420C-B8F9-4CFCB57724D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{346E1C0B-F5B5-420C-B8F9-4CFCB57724D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{346E1C0B-F5B5-420C-B8F9-4CFCB57724D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{346E1C0B-F5B5-420C-B8F9-4CFCB57724D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{346E1C0B-F5B5-420C-B8F9-4CFCB57724D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
